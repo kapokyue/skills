@@ -37,12 +37,6 @@
       "skillPath": "skills/productivity/grilling/SKILL.md",
       "computedHash": "485451958784497cd4c4dbea13cb5bbb579da58fac0d0e45f3bcb310fab68ac7"
     },
-    "migration": {
-      "source": "JuliusBrussee/caveman",
-      "sourceType": "github",
-      "skillPath": "skills/migration/SKILL.md",
-      "computedHash": "e7c6efc84ff8f85d0242e7f29f51c09fd333c294cc3123ef8ee4b2aca2a93192"
-    },
     "ponytail": {
       "source": "DietrichGebert/ponytail",
       "commit": "ebd8654c2c627f721eb8f9c0d1bd4090a29f9e10",
@@ -61,12 +55,6 @@
       "sourceType": "github",
       "skillPath": "skills/engineering/retro/SKILL.md",
       "computedHash": "e260aefb7b75b3548a3ee9883afbf8808e521f2e86feec92399617894f83b7c2"
-    },
-    "safe-refactor": {
-      "source": "JuliusBrussee/caveman",
-      "sourceType": "github",
-      "skillPath": "skills/safe-refactor/SKILL.md",
-      "computedHash": "709db1dfde3fe3baa362ecdb3f1f3c0be27587358242737dfa4ca82a23744269"
     },
     "tdd": {
       "source": "mattpocock/skills",
