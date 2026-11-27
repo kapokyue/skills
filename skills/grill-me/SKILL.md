@@ -10,11 +10,11 @@ Finding _facts_ is your job, never the user's. Don't ask the user for anything y
 
 Ask **one question at a time**.
 
-Give a recommended answer and explain the trade-off and implementation effort. Probe vague replies, test assumptions with concrete scenarios, and revisit earlier decisions when an answer changes them.
+Give options (recommended? easy?). Probe vague replies, test assumptions with concrete scenarios, and revisit earlier decisions when an answer changes them.
 
-Record shared understanding as they are settled at the end for review. Summarize the agreed direction, rejected options and their rationale, accepted trade-offs, and any deferrals. Use the README in the known feature directory, respecting an existing filename's casing. If the feature directory is unknown, run `sh <skill-directory>/scripts/readme-path.sh <feature-slug:[a-z0-9-]>` from the repository root and use its printed path directly.
+Record shared understanding as it is settled at the end for review (summarize the agreed direction, rejected options and their rationale, accepted trade-offs, any deferrals, etc.) to the README in the known feature directory. If the feature directory is unknown, run `sh <skill-directory>/scripts/readme-path.sh <feature-slug:[a-z0-9-]>` from the repository root and use its printed path directly.
 
-Do not start implementation until every decision needed for an actionable next step is settled, with nothing left silently assumed, and the user confirms the shared understanding in the README.
+End when **design tree** is settled, and the user confirms the shared understanding in the README.
 
 
 ## How to ask better questions than you normally would
